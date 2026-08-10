@@ -1,9 +1,9 @@
 {
-  "generated_at_utc": "2026-08-10T05:35:41.222761+00:00",
+  "generated_at_utc": "2026-08-10T05:40:50.568763+00:00",
   "symbol": "XAUUSD",
-  "bid": 4340.12,
-  "ask": 4340.51,
-  "spread": 0.39,
+  "bid": 4343.61,
+  "ask": 4343.9,
+  "spread": 0.29,
   "timeframes": {
     "D1": {
       "close": 4341.3,
