@@ -1,36 +1,36 @@
 {
-  "generated_at_utc": "2026-08-10T23:45:02.852207+00:00",
+  "generated_at_utc": "2026-08-11T23:45:02.598809+00:00",
   "symbol": "XAUUSD",
-  "bid": 4398.44,
-  "ask": 4398.82,
-  "spread": 0.38,
+  "bid": 4367.85,
+  "ask": 4368.24,
+  "spread": 0.39,
   "timeframes": {
     "D1": {
-      "close": 4389.17,
-      "ema21": 4151.26087,
-      "ema50": 4201.70681,
-      "ema200": 4285.44667,
-      "rsi": 68.04,
+      "close": 4367.83,
+      "ema21": 4170.94897,
+      "ema50": 4208.22145,
+      "ema200": 4286.26543,
+      "rsi": 65.92,
       "rsi_status": "Bullish",
-      "stoch_k": 89.23,
-      "stoch_d": 84.59,
+      "stoch_k": 90.47,
+      "stoch_d": 88.78,
       "stoch_status": "Overbought",
-      "atr": 97.10485,
+      "atr": 95.77307,
       "regime": "MIXED",
       "bb": {
-        "upper": 4321.41461,
-        "middle": 4104.347,
-        "lower": 3887.27939,
-        "pct_b": 1.156,
+        "upper": 4363.97893,
+        "middle": 4120.1265,
+        "lower": 3876.27407,
+        "pct_b": 1.008,
         "squeeze": false,
-        "width_pct": 0.10577,
+        "width_pct": 0.11837,
         "touch_upper": true,
         "touch_lower": false
       },
       "macd": {
-        "macd": 37.737774,
-        "signal": -5.754049,
-        "hist": 43.491823,
+        "macd": 49.388129,
+        "signal": 5.274387,
+        "hist": 44.113743,
         "cross": null,
         "above": true
       },
@@ -46,7 +46,7 @@
         },
         "nearest": "50.0",
         "nearest_price": 4416.22,
-        "nearest_dist_pct": 0.00616,
+        "nearest_dist_pct": 0.01108,
         "near_fib": false
       },
       "pattern": {
@@ -57,115 +57,115 @@
       "rsi_div": null,
       "atr_regime": {
         "regime": "HIGH",
-        "pct": 2.212
+        "pct": 2.193
       },
       "sr": [
-        4455.00755,
+        4433.34745,
         1824.14
       ]
     },
     "H4": {
-      "close": 4389.17,
-      "ema21": 4286.71301,
-      "ema50": 4202.8592,
-      "ema200": 4145.55859,
-      "rsi": 73.08,
-      "rsi_status": "Overbought",
-      "stoch_k": 72.31,
-      "stoch_d": 61.84,
+      "close": 4367.83,
+      "ema21": 4330.17032,
+      "ema50": 4242.29696,
+      "ema200": 4159.86295,
+      "rsi": 61.6,
+      "rsi_status": "Bullish",
+      "stoch_k": 32.37,
+      "stoch_d": 43.9,
       "stoch_status": "Neutral",
-      "atr": 37.15548,
+      "atr": 36.64536,
       "regime": "BULL",
       "bb": {
-        "upper": 4396.12543,
-        "middle": 4299.3655,
-        "lower": 4202.60557,
-        "pct_b": 0.964,
+        "upper": 4443.93264,
+        "middle": 4337.3315,
+        "lower": 4230.73036,
+        "pct_b": 0.643,
         "squeeze": false,
-        "width_pct": 0.04501,
+        "width_pct": 0.04916,
         "touch_upper": false,
         "touch_lower": false
       },
       "macd": {
-        "macd": 59.497723,
-        "signal": 57.907287,
-        "hist": 1.590437,
+        "macd": 52.160648,
+        "signal": 57.2894,
+        "hist": -5.128752,
         "cross": null,
-        "above": true
+        "above": false
       },
       "fib": {
-        "swing_h": 4395.19,
-        "swing_l": 3959.64,
+        "swing_h": 4435.18,
+        "swing_l": 3995.97,
         "levels": {
-          "23.6": 4292.4002,
-          "38.2": 4228.8099,
-          "50.0": 4177.415,
-          "61.8": 4126.0201,
-          "78.6": 4052.8477
+          "23.6": 4331.52644,
+          "38.2": 4267.40178,
+          "50.0": 4215.575,
+          "61.8": 4163.74822,
+          "78.6": 4089.96094
         },
         "nearest": "23.6",
-        "nearest_price": 4292.4002,
-        "nearest_dist_pct": 0.02205,
+        "nearest_price": 4331.52644,
+        "nearest_dist_pct": 0.00831,
         "near_fib": false
       },
       "pattern": {
-        "pattern": null,
-        "direction": null
+        "pattern": "Evening Star",
+        "direction": "SELL"
       },
       "ema_cross": null,
       "rsi_div": "BEAR",
       "atr_regime": {
         "regime": "HIGH",
-        "pct": 0.847
+        "pct": 0.839
       },
       "sr": [
         4423.87,
-        4369.46
+        4363.38
       ]
     },
     "H1": {
-      "close": 4399.57,
-      "ema21": 4355.20854,
-      "ema50": 4322.10672,
-      "ema200": 4203.01481,
-      "rsi": 72.7,
-      "rsi_status": "Overbought",
-      "stoch_k": 90.45,
-      "stoch_d": 89.79,
-      "stoch_status": "Overbought",
-      "atr": 16.29526,
+      "close": 4369.02,
+      "ema21": 4376.9564,
+      "ema50": 4358.79791,
+      "ema200": 4237.24004,
+      "rsi": 46.69,
+      "rsi_status": "Neutral",
+      "stoch_k": 30.43,
+      "stoch_d": 26.06,
+      "stoch_status": "Neutral",
+      "atr": 15.65199,
       "regime": "BULL",
       "bb": {
-        "upper": 4396.33335,
-        "middle": 4351.5845,
-        "lower": 4306.83565,
-        "pct_b": 1.036,
-        "squeeze": false,
-        "width_pct": 0.02057,
-        "touch_upper": true,
+        "upper": 4413.63537,
+        "middle": 4381.913,
+        "lower": 4350.19063,
+        "pct_b": 0.297,
+        "squeeze": true,
+        "width_pct": 0.01448,
+        "touch_upper": false,
         "touch_lower": false
       },
       "macd": {
-        "macd": 17.638674,
-        "signal": 13.330792,
-        "hist": 4.307882,
+        "macd": 0.879818,
+        "signal": 4.729167,
+        "hist": -3.849349,
         "cross": null,
-        "above": true
+        "above": false
       },
       "fib": {
-        "swing_h": 4400.65,
-        "swing_l": 4065.38,
+        "swing_h": 4435.18,
+        "swing_l": 4203.61,
         "levels": {
-          "23.6": 4321.52628,
-          "38.2": 4272.57686,
-          "50.0": 4233.015,
-          "61.8": 4193.45314,
-          "78.6": 4137.12778
+          "23.6": 4380.52948,
+          "38.2": 4346.72026,
+          "50.0": 4319.395,
+          "61.8": 4292.06974,
+          "78.6": 4253.16598
         },
         "nearest": "23.6",
-        "nearest_price": 4321.52628,
-        "nearest_dist_pct": 0.01774,
-        "near_fib": false
+        "nearest_price": 4380.52948,
+        "nearest_dist_pct": 0.00263,
+        "near_fib": true
       },
       "pattern": {
         "pattern": null,
@@ -175,96 +175,96 @@
       "rsi_div": null,
       "atr_regime": {
         "regime": "NORMAL",
-        "pct": 0.37
+        "pct": 0.358
       },
       "sr": [
-        4465.56355,
-        4141.0
+        4434.5553,
+        4116.03
       ]
     },
     "M15": {
-      "close": 4398.67,
-      "ema21": 4384.90107,
-      "ema50": 4368.66384,
-      "ema200": 4329.82022,
-      "rsi": 72.88,
-      "rsi_status": "Overbought",
-      "stoch_k": 58.78,
-      "stoch_d": 68.85,
+      "close": 4367.85,
+      "ema21": 4372.18983,
+      "ema50": 4376.50309,
+      "ema200": 4361.23344,
+      "rsi": 44.58,
+      "rsi_status": "Bearish",
+      "stoch_k": 41.2,
+      "stoch_d": 39.36,
       "stoch_status": "Neutral",
-      "atr": 5.71887,
-      "regime": "BULL",
+      "atr": 6.77932,
+      "regime": "MIXED",
       "bb": {
-        "upper": 4408.57643,
-        "middle": 4386.227,
-        "lower": 4363.87757,
-        "pct_b": 0.778,
+        "upper": 4377.03584,
+        "middle": 4369.3945,
+        "lower": 4361.75316,
+        "pct_b": 0.399,
         "squeeze": true,
-        "width_pct": 0.01019,
+        "width_pct": 0.0035,
         "touch_upper": false,
         "touch_lower": false
       },
       "macd": {
-        "macd": 10.674944,
-        "signal": 10.931674,
-        "hist": -0.25673,
+        "macd": -2.357094,
+        "signal": -2.838943,
+        "hist": 0.481849,
         "cross": null,
-        "above": false
+        "above": true
       },
       "fib": {
-        "swing_h": 4401.77,
-        "swing_l": 4313.31,
+        "swing_h": 4435.18,
+        "swing_l": 4356.72,
         "levels": {
-          "23.6": 4380.89344,
-          "38.2": 4367.97828,
-          "50.0": 4357.54,
-          "61.8": 4347.10172,
-          "78.6": 4332.24044
+          "23.6": 4416.66344,
+          "38.2": 4405.20828,
+          "50.0": 4395.95,
+          "61.8": 4386.69172,
+          "78.6": 4373.51044
         },
-        "nearest": "23.6",
-        "nearest_price": 4380.89344,
-        "nearest_dist_pct": 0.00404,
-        "near_fib": false
+        "nearest": "78.6",
+        "nearest_price": 4373.51044,
+        "nearest_dist_pct": 0.0013,
+        "near_fib": true
       },
       "pattern": {
-        "pattern": "Bullish Engulfing",
-        "direction": "BUY"
+        "pattern": null,
+        "direction": null
       },
       "ema_cross": null,
       "rsi_div": null,
       "atr_regime": {
         "regime": "LOW",
-        "pct": 0.13
+        "pct": 0.155
       },
       "sr": [
-        4464.65005,
-        4304.06
+        4433.36775,
+        4316.67
       ]
     }
   },
   "markov_d1": {
     "regime": "SIDE",
     "longrun": {
-      "BULL": 86.2,
+      "BULL": 82.9,
       "BEAR": 6.2,
-      "SIDE": 7.7
+      "SIDE": 10.9
     },
     "next": {
-      "BULL": 40,
-      "BEAR": 40,
-      "SIDE": 20
+      "BULL": 29,
+      "BEAR": 29,
+      "SIDE": 43
     },
     "dominant": "BULL",
     "stickiness": {
-      "BULL": 92.9,
+      "BULL": 92.5,
       "BEAR": 50.0,
-      "SIDE": 20.0
+      "SIDE": 42.9
     },
     "stickiness_legacy": {
-      "BULL": 99.0,
-      "BEAR": 92.2,
-      "SIDE": 91.2
+      "BULL": 99.1,
+      "BEAR": 94.9,
+      "SIDE": 93.1
     }
   },
-  "h1_structure": "BULL"
+  "h1_structure": "MIXED"
 }
