@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-09-20T23:21:01.316549+00:00",
+  "generated_at_utc": "2026-09-20T23:45:02.978844+00:00",
   "symbol": "XAUUSD",
-  "bid": 4374.53,
-  "ask": 4374.92,
+  "bid": 4371.22,
+  "ask": 4371.61,
   "spread": 0.39,
   "timeframes": {
     "D1": {
@@ -183,31 +183,31 @@
       ]
     },
     "M15": {
-      "close": 4372.9,
-      "ema21": 4377.55694,
-      "ema50": 4374.96182,
-      "ema200": 4353.26363,
-      "rsi": 44.19,
+      "close": 4370.98,
+      "ema21": 4376.67665,
+      "ema50": 4374.7747,
+      "ema200": 4353.64607,
+      "rsi": 42.22,
       "rsi_status": "Bearish",
-      "stoch_k": 6.26,
-      "stoch_d": 12.37,
+      "stoch_k": 18.54,
+      "stoch_d": 14.44,
       "stoch_status": "Oversold",
-      "atr": 6.19562,
+      "atr": 5.91944,
       "regime": "BULL",
       "bb": {
-        "upper": 4394.20819,
-        "middle": 4382.0135,
-        "lower": 4369.81881,
-        "pct_b": 0.126,
+        "upper": 4392.25717,
+        "middle": 4380.2675,
+        "lower": 4368.27783,
+        "pct_b": 0.113,
         "squeeze": true,
-        "width_pct": 0.00557,
+        "width_pct": 0.00547,
         "touch_upper": false,
         "touch_lower": false
       },
       "macd": {
-        "macd": 0.136958,
-        "signal": 1.707706,
-        "hist": -1.570748,
+        "macd": -0.590051,
+        "signal": 0.954094,
+        "hist": -1.544146,
         "cross": null,
         "above": false
       },
@@ -223,7 +223,7 @@
         },
         "nearest": "38.2",
         "nearest_price": 4374.64596,
-        "nearest_dist_pct": 0.0004,
+        "nearest_dist_pct": 0.00084,
         "near_fib": true
       },
       "pattern": {
@@ -234,10 +234,10 @@
       "rsi_div": null,
       "atr_regime": {
         "regime": "LOW",
-        "pct": 0.142
+        "pct": 0.135
       },
       "sr": [
-        4438.4935,
+        4436.5447,
         4341.04
       ]
     }
