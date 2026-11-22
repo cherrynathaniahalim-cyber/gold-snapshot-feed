@@ -1,8 +1,8 @@
 {
-  "generated_at_utc": "2026-11-22T23:14:11.005101+00:00",
+  "generated_at_utc": "2026-11-22T23:45:02.483728+00:00",
   "symbol": "XAUUSD",
-  "bid": 3572.7,
-  "ask": 3573.15,
+  "bid": 3579.56,
+  "ask": 3580.01,
   "spread": 0.45,
   "timeframes": {
     "D1": {
@@ -183,62 +183,62 @@
       ]
     },
     "M15": {
-      "close": 3534.82,
-      "ema21": 3527.96311,
-      "ema50": 3544.0293,
-      "ema200": 3629.33296,
-      "rsi": 51.53,
-      "rsi_status": "Neutral",
-      "stoch_k": 86.56,
-      "stoch_d": 76.92,
+      "close": 3579.75,
+      "ema21": 3540.10966,
+      "ema50": 3547.72799,
+      "ema200": 3627.5942,
+      "rsi": 64.97,
+      "rsi_status": "Bullish",
+      "stoch_k": 88.74,
+      "stoch_d": 91.53,
       "stoch_status": "Overbought",
-      "atr": 14.65422,
+      "atr": 16.45709,
       "regime": "BEAR",
       "bb": {
-        "upper": 3540.50598,
-        "middle": 3522.5895,
-        "lower": 3504.67302,
-        "pct_b": 0.841,
-        "squeeze": true,
-        "width_pct": 0.01017,
-        "touch_upper": false,
+        "upper": 3572.3414,
+        "middle": 3529.4385,
+        "lower": 3486.5356,
+        "pct_b": 1.086,
+        "squeeze": false,
+        "width_pct": 0.02431,
+        "touch_upper": true,
         "touch_lower": false
       },
       "macd": {
-        "macd": -6.560141,
-        "signal": -9.516815,
-        "hist": 2.956674,
+        "macd": 4.728307,
+        "signal": -3.925103,
+        "hist": 8.653411,
         "cross": null,
         "above": true
       },
       "fib": {
-        "swing_h": 3672.84,
+        "swing_h": 3667.32,
         "swing_l": 3502.79,
         "levels": {
-          "23.6": 3632.7082,
-          "38.2": 3607.8809,
-          "50.0": 3587.815,
-          "61.8": 3567.7491,
-          "78.6": 3539.1807
+          "23.6": 3628.49092,
+          "38.2": 3604.46954,
+          "50.0": 3585.055,
+          "61.8": 3565.64046,
+          "78.6": 3537.99942
         },
-        "nearest": "78.6",
-        "nearest_price": 3539.1807,
-        "nearest_dist_pct": 0.00123,
+        "nearest": "50.0",
+        "nearest_price": 3585.055,
+        "nearest_dist_pct": 0.00148,
         "near_fib": true
       },
       "pattern": {
-        "pattern": null,
-        "direction": null
+        "pattern": "Bullish Engulfing",
+        "direction": "BUY"
       },
       "ema_cross": null,
       "rsi_div": null,
       "atr_regime": {
         "regime": "NORMAL",
-        "pct": 0.415
+        "pct": 0.46
       },
       "sr": [
-        3780.17,
-        3481.7977
+        3757.33,
+        3526.05375
       ]
     }
   },
